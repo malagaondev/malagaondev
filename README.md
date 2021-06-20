@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @malagaondev
+- 👀 I’m interested in learning Java, HTML, CSS, JavaScript, Git, some Pyton...
+- 🌱 I’m currently learning Java, HTML, CSS and Git
+- 💞️ I’m looking to collaborate on something that a begginer with no experience can do. Probably not much but I'm passionated about to start a small proyect where I can learn.
+- 📫 My email is malagaondev@gmail.com
